@@ -7,7 +7,7 @@ Created on Wed Jan 29 14:45:22 2020
 
     
                # THIS IS WHERE I PUT ALL MY LITTLE FUNCTIONS FOR TESTS AND STUFF#
-   
+ #hey there
 import string
 from random import randint
   
