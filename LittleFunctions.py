@@ -271,6 +271,6 @@ def MOtH(n, s):
 #**************************************************
   #MOtH solves the josephus problem, its long to explain, so look it up.
   #n is the number of people, s is the placement of people to be killed.
-  #for ec. MOtH(6, 3) would return 3    
+  #for ec. MOtH(6, 3) would return 1    
    
     
